@@ -1,0 +1,50 @@
+{
+    "Books": [
+        {
+            "titel": "physics",
+            "author": "abul hasem",
+            "genra": "text book"
+        },
+        {
+            "titel": "when the moon split",
+            "author": "unknown",
+            "genra": "biography"
+        },
+        {
+            "titel": "text book",
+            "author": "binod",
+            "genra": "text book"
+        },
+        {
+            "titel": "bangla book",
+            "author": "sahidul islam",
+            "genra": "text book"
+        },
+        {
+            "titel": "cele o me",
+            "author": "piash",
+            "genra": "comic"
+        },
+        {
+            "titel": "love is power",
+            "author": "Unknown",
+            "genra": "Unknown"
+        }
+    ],
+    "IssuedBooks": [
+        {
+            "name": "azizul haque",
+            "id": "1702060",
+            "department": "mechanical",
+            "book_title": "ar rahikul maktum",
+            "issued_date": "2024-10-19 22:48:35"
+        },
+        {
+            "name": "aziz",
+            "id": "133444",
+            "department": "me",
+            "book_title": "floor of the women",
+            "issued_date": "2024-10-19 23:07:39"
+        }
+    ]
+}
